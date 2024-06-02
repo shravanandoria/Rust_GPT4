@@ -1,0 +1,9 @@
+{
+  "tasks": {
+    "2": { "id": 2, "name": "My Second Swimming Task", "completed": true },
+    "1": { "id": 1, "name": "My First new Task", "completed": true }
+  },
+  "users": {
+    "1": { "id": 1, "username": "Shravan21437", "password": "helloworld" }
+  }
+}
